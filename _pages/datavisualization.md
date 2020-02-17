@@ -1,16 +1,9 @@
 ---
-layout: archive
+layout: category
 title: "Data Visualization"
 permalink: /datavisualization/
+taxonomy: data visualization
 author_profile: true
 ---
 
 This is a page for my data visualizations.
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
