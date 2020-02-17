@@ -1,8 +1,8 @@
 ---
-layout: category
-title: "Data Visualization"
+layout: collection
+collection: visuals
+title: "Data Visualizations"
 permalink: /datavisualization/
-taxonomy: data visualization
 author_profile: true
 ---
 
