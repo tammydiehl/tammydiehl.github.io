@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tammy Diehl"
-  avatar           : "/images/climbing_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/nature-tam.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "USA"
   email            :
