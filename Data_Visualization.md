@@ -1,3 +1,4 @@
 layout: page
 title: "DATA VISUALIZATION"
-permalink: /DATA-VISUALIZATION/
+permalink: /data-visualization/
+This is a test.
