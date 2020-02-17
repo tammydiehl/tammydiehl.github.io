@@ -1,4 +1,4 @@
-Making a change test
+## Making a change test
 
 ## Welcome to GitHub Pages
 
