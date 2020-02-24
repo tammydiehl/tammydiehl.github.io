@@ -5,7 +5,7 @@ title: "Data Visualizations"
 permalink: /datavisualization/
 author_profile: true
 header:
-  image: "/images/yose.jpg"
+  image: "/images/yose.png"
 ---
 
 {% include base_path %}
