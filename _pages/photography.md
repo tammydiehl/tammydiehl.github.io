@@ -8,11 +8,8 @@ header:
   image: "/images/yose.jpg"
 ---
 
-<!-- <figure class="third">
-    <a href="/images/mush-side.jpg"><img src="/images/mush-side.jpg"></a>
-    <a href="/images/newt.jpg"><img src="/images/newt.jpg"></a>
-	<a href="/images/rain-grass.jpg"><img src="/images/rain-grass.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure> -->
-
-<a href="/images/mush-side.jpg"><img src="/images/mush-side.jpg"></a>
+<figure class="third">
+    <a href="/images/mush-side-resize.jpg"><img src="/images/mush-side.jpg"></a>
+    <a href="/images/newt-resize.jpg"><img src="/images/newt-resize.jpg"></a>
+	<a href="/images/banana-slug.jpeg"><img src="/images/banana-slug.jpeg"></a>
+</figure>
