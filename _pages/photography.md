@@ -26,7 +26,7 @@ header:
 </figure>
 <figure>
 	<a href="/images/ant.jpeg"><img src="/images/ant.jpeg"></a>
-	<a href="/images/bumblebee.jpg><img src="/images/bumblebee.jpg></a>
+	<a href="/images/bumblebee.jpg"><img src="/images/bumblebee.jpg"></a>
 </figure>
 <figure class="third">
     <a href="/images/mush-side-resize.JPG"><img src="/images/mush-side-resize.JPG"></a>
