@@ -13,3 +13,9 @@ header:
     <a href="/images/newt-resize.JPG"><img src="/images/newt-resize.JPG"></a>
 	<a href="/images/banana-slug.jpeg"><img src="/images/banana-slug.jpeg"></a>
 </figure>
+
+<figure class="third">
+    <a href="/images/butterfly.jpg"><img src="/images/butterfly.jpg"></a>
+    <a href="/images/calendula.JPG"><img src="/images/calendula.JPG"></a>
+	<a href="/images/honeybee.jpg"><img src="/images/honeybee.jpg"></a>
+</figure>
