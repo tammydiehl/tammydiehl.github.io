@@ -18,15 +18,11 @@ header:
 </figure>
 <figure>
 	<a href="/images/ant.jpeg"><img src="/images/ant.jpeg"></a>
-	<a href="/images/bumblebee.jpg><img src="/images/bumblebee.jpg></a>
+	<a href="/images/bumblebee.jpg"><img src="/images/bumblebee.jpg"></a>
 </figure>
 <figure class="half">
     <a href="/images/butterfly.jpg"><img src="/images/butterfly.jpg"></a>
 	<a href="/images/mush-side-resize.JPG"><img src="/images/mush-side-resize.JPG"></a>
-</figure>
-<figure>
-	<a href="/images/ant.jpeg"><img src="/images/ant.jpeg"></a>
-	<a href="/images/bumblebee.jpg"><img src="/images/bumblebee.jpg"></a>
 </figure>
 <figure class="third">
     <a href="/images/mush-side-resize.JPG"><img src="/images/mush-side-resize.JPG"></a>
