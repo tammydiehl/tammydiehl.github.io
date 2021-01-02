@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Visualizations"
     url: /datavisualization/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Photography"
+    url: /photography/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
